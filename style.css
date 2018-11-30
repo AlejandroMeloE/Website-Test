@@ -1,0 +1,38 @@
+p {
+     color: #C05F7C;
+}
+
+a {
+    color: #F4F975;
+}
+
+body {
+	background-color: #1FD9E6;
+    font-size: 17px;
+	font-family: "Courier New", Courier, monospace;
+}
+
+li {
+   float: left;
+}
+
+li a {
+   display: block;
+   color: white;
+   text-align: center;
+   padding: 12px 14px;
+   text-decoration: none;
+}
+
+li a:hover {
+   background-color: #111;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+  
